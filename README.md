@@ -1,6 +1,8 @@
-# OctoFit Tracker
+# Fitness Tracker AI Agent Build
 
-Completed as part of the "Building Applications with GitHub Copilot Agent Mode GitHub Skills" exercise.
+<p align="center">
+  <img src="docs/octofitapp-small.png" alt="OctoFit app logo" width="300">
+</p>
 
 ## Project Overview
 
@@ -61,6 +63,10 @@ Codespaces URLs are environment-specific and available only while the Codespace 
 ## Exercise Completion
 
 This repository was completed through GitHub Skills and GitHub Copilot Agent Mode.
+
+# OctoFit Tracker
+
+Completed as part of the "Building Applications with GitHub Copilot Agent Mode GitHub Skills" exercise.
 
 ## License
 
