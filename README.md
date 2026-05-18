@@ -1,8 +1,6 @@
 # Fitness Tracker AI Agent Build
 
-<p align="center">
-  <img src="docs/octofitapp-small.png" alt="OctoFit app logo" width="300">
-</p>
+![OctoFit Tracker Home Page](assets/octofit-home.png)
 
 ## Project Overview
 
@@ -30,9 +28,6 @@ The project demonstrates how GitHub Copilot Agent Mode can assist with multi-ste
 - React navigation and data tables
 
 ## Screenshots
-
-### Home Page
-![OctoFit Tracker Home Page](assets/octofit-home.png)
 
 ### Activities
 ![OctoFit Tracker Activities Page](assets/octofit-activities.png)
