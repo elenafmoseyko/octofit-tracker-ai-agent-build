@@ -1,37 +1,46 @@
-<div align="center">
+# OctoFit Tracker
 
-# 🎉 Congratulations elenafmoseyko! 🎉
+Completed as part of the **Building Applications with GitHub Copilot Agent Mode** GitHub Skills exercise.
 
-<img src="https://octodex.github.com/images/welcometocat.png" height="200px" />
+## Project Overview
 
-### 🌟 You've successfully completed the exercise! 🌟
+OctoFit Tracker is a full-stack fitness tracking application prototype for managing users, teams, activities, leaderboards, and workout suggestions.
 
-## 🚀 Share Your Success!
+The project demonstrates how GitHub Copilot Agent Mode can assist with multi-step application development, including backend setup, frontend development, API integration, debugging, testing, and pull request workflow.
 
-**Show off your new skills and inspire others!**
+## Tech Stack
 
-<a href="https://twitter.com/intent/tweet?text=I%20just%20completed%20the%20%22Build%20Applications%20with%20GitHub%20Copilot%20Agent%20Mode%22%20GitHub%20Skills%20hands-on%20exercise!%20%F0%9F%8E%89%0A%0Ahttps%3A%2F%2Fgithub.com%2Felenafmoseyko%2Fskills-build-applications-w-copilot-agent-mode%0A%0A%23GitHubSkills%20%23OpenSource%20%23GitHubLearn" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Share%20on%20X-1da1f2?style=for-the-badge&logo=x&logoColor=white" alt="Share on X" />
-</a>
-<a href="https://bsky.app/intent/compose?text=I%20just%20completed%20the%20%22Build%20Applications%20with%20GitHub%20Copilot%20Agent%20Mode%22%20GitHub%20Skills%20hands-on%20exercise!%20%F0%9F%8E%89%0A%0Ahttps%3A%2F%2Fgithub.com%2Felenafmoseyko%2Fskills-build-applications-w-copilot-agent-mode%0A%0A%23GitHubSkills%20%23OpenSource%20%23GitHubLearn" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Share%20on%20Bluesky-0085ff?style=for-the-badge&logo=bluesky&logoColor=white" alt="Share on Bluesky" />
-</a>
-<a href="https://www.linkedin.com/feed/?shareActive=true&text=I%20just%20completed%20the%20%22Build%20Applications%20with%20GitHub%20Copilot%20Agent%20Mode%22%20GitHub%20Skills%20hands-on%20exercise!%20%F0%9F%8E%89%0A%0Ahttps%3A%2F%2Fgithub.com%2Felenafmoseyko%2Fskills-build-applications-w-copilot-agent-mode%0A%0A%23GitHubSkills%20%23OpenSource%20%23GitHubLearn" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Share%20on%20LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Share on LinkedIn" />
-</a>
+- React.js frontend
+- Django REST Framework backend
+- MongoDB / database integration
+- Bootstrap styling
+- GitHub Codespaces
+- GitHub Copilot Agent Mode
 
-### 🎯 What's Next?
+## Features
 
-**Keep the momentum going!**
+- User profiles
+- Team management
+- Activity tracking
+- Leaderboard
+- Workout suggestions
+- REST API endpoints
+- React navigation and data tables
 
-[![](https://img.shields.io/badge/Return%20to%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/elenafmoseyko/skills-build-applications-w-copilot-agent-mode/issues/1)
-[![GitHub Skills](https://img.shields.io/badge/Explore%20GitHub%20Skills-000000?style=for-the-badge&logo=github&logoColor=white)](https://learn.github.com/skills))
+## Implementation Highlights
 
-*There's no better way to learn than building things!* 🚀
+- Using GitHub Copilot Agent Mode for multi-step coding tasks
+- Creating and publishing a Git branch
+- Setting up a Django REST API backend
+- Connecting React components to backend API endpoints
+- Debugging React runtime errors
+- Testing API endpoints
+- Creating and merging a pull request
 
-</div>
+## Exercise Completion
 
----
+This repository was completed through GitHub Skills and GitHub Copilot Agent Mode.
 
-&copy; 2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+## License
 
+This project uses the MIT License.
