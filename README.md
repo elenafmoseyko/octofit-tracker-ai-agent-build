@@ -1,6 +1,6 @@
 # OctoFit Tracker
 
-Completed as part of the **Building Applications with GitHub Copilot Agent Mode** GitHub Skills exercise.
+Completed as part of the "Building Applications with GitHub Copilot Agent Mode GitHub Skills" exercise.
 
 ## Project Overview
 
